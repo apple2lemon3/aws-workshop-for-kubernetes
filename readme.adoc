@@ -2,21 +2,22 @@
 
 image::images/kubernetes-aws-smile.png[kubernetes and aws logos, 400]
 
-This is a self-paced workshop that explains how to run and manage a Kubernetes cluster on Amazon Web Services.
+これは、Amazon Web Services上でKubernetesクラスタを実行および管理する方法を説明する自己ペースのワークショップの日本語訳です。
+原文は https://github.com/aws-samples/aws-workshop-for-kubernetes になります。
 
-It explains how to deploy, scale, and configure applications on this cluster.
+クラスタにアプリケーションを展開、拡張、および構成する方法について説明します。
 
-This workshop is designed for attendees on Development and Operations teams who would like to get started with Kubernetes on Amazon Web Services (AWS).
+このワークショップは、Amazonウェブサービス（AWS）でKubernetesを使い始めたいと考えている、開発チームおよび運用チームのメンバーを対象としています。
 
-This workshop provides instructions to create, manage, and scale a Kubernetes cluster on AWS, as well as how to deploy applications, scale them, run stateless and stateful containers, perform service discovery between different microservices, and other similar concepts.
+このワークショップでは、AWS上でKubernetesクラスタを作成、管理、拡張する方法、アプリケーションのデプロイ方法、スケーラビリティ、ステートフル/ステートフルコンテナの実行方法、さまざまなマイクロサービス間のサービス発見、およびその他コンセプトについて説明します。
 
-It also shows deep integration with several AWS technologies.
+また、いくつかのAWSテクノロジーとの深いインテグレーションについても説明します。
 
-The proposed agenda is to go through the described format to ramp up your knowledge on Kubernetes by following
-the workshop guides.
+このワークショップによって
+Kubernetesに関する知識を向上させるために、
+記述されているワークショップの内容を実行することをお勧めします。
 
-You are also encouraged to take a detour and explore advanced topics if you feel comfortable
-as you move through the workshop.
+また、ワークショップを進めていく最中で、ゆとりがある場合、ワークショップに入っていない、高度なトピックについて検索することをお勧めします。
 
 [cols="1*"]
 |===
